@@ -1,5 +1,5 @@
 ### Hi there 👋
-##I am Vibhor Agarwal currently a CS Undergraduate at IIIT Delhi
+## I am Vibhor Agarwal currently a CS Undergraduate at IIIT Delhi
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vibhorag101&count_private=true&theme=algolia)
 
 <!--
