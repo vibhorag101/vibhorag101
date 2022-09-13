@@ -19,7 +19,6 @@
 ![scikit-learn](https://img.shields.io/badge/SkLearn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%230db7ed.svg?style=flat-square&logo=flutter&logoColor=white)
 ![MySQL](https://img.shields.io/badge/Mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=flat-square&logo=jupyter&logoColor=white)
