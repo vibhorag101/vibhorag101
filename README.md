@@ -1,4 +1,4 @@
-## Hey 👋,  I'm Vibhor Agarwal, currently an undergraduate at IIIT Delhi ! 
+## Hey 👋,  I'm Vibhor Agarwal, currently a CS undergraduate at IIIT Delhi ! 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/anuneet-anand/)](https://www.linkedin.com/in/vibhor-agarwal-400250189/)
 
 - ⭐ Ecstatic about working on innovative projects that aim to solve real-world problems through technology.
@@ -30,6 +30,6 @@
 ## Stats
 
 <!-- <div align="center"> -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuneetanand&show_icons=true&theme=dark&hide=stars&include_all_commits=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vibhorag101&show_icons=true&theme=dark&hide=stars&include_all_commits=true" />
 <!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vibhorag101&theme=dark" alt="vibhorag101" /> -->
 <!-- </div> -->
