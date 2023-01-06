@@ -5,7 +5,7 @@
 
 - 👨‍🎓 Doing my Undergraduate Degree @ IIITD 
 
-- 👨‍💻 Experience developing websites, Java apps and working with Linux. Currently doing `Machine Learning` course at IIIT Delhi.
+- 👨‍💻 Experience developing Machine Learning Models, websites, Java apps and working with Linux.
 
 - 🤝 Open to connecting with fellow developers & researchers and learning something new.
 
