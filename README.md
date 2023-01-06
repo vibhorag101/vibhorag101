@@ -28,7 +28,7 @@
 
 ## My GitHub Stats
 
-<!-- <div align="center"> -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vibhorag101&show_icons=true&theme=dark&hide=stars&include_all_commits=true" />
-<!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vibhorag101&theme=dark" alt="vibhorag101" /> -->
-<!-- </div> -->
+
+[![Vibhor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vibhorag101&show_icons=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
