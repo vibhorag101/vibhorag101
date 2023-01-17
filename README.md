@@ -29,4 +29,4 @@
 ## My GitHub Stats
 
 
-[![Vibhor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vibhorag101&show_icons=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
+![Vibhor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vibhorag101&show_icons=true&theme=transparent)
