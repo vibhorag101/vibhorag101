@@ -25,8 +25,3 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/Latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white)
-
-## My GitHub Stats
-
-
-![Vibhor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vibhorag101&show_icons=true&theme=transparent)
