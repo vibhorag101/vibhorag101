@@ -1,7 +1,7 @@
 ## Hey 👋,  I'm Vibhor Agarwal, currently a CS undergraduate at IIIT Delhi ! 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/anuneet-anand/)](https://www.linkedin.com/in/vibhor-agarwal-400250189/)
 
-- ⭐ Undergraduate Student Researcher @ Networks Research Lab, IIIT Delhi
+- ⭐ Undergraduate **Student Researcher @ Networks Research Lab, IIIT Delhi**
 
 - 👨‍🎓 Doing my Undergraduate Degree @ IIITD 
 
