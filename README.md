@@ -5,7 +5,7 @@
 
 - 👨‍🎓 Doing my Undergraduate Degree @ IIITD 
 
-- 👨‍💻 Experience developing Machine Learning Models, websites, Java apps and working with Linux.
+- 👨‍💻 Experience developing Machine Learning,Deep Learning and Computer Vision Models,Android Applications, Websites, Java apps and working with Linux.
 
 - 🤝 Open to connecting with fellow developers & researchers and learning something new.
 
