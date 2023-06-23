@@ -5,7 +5,7 @@
 
 - 👨‍🎓 Doing my Undergraduate Degree @ IIITD 
 
-- 👨‍💻 Experience in Machine Learning, Deep Learning, Computer Vision Models, Android Automation, Network Testing, Websites, Java apps and working with Linux.
+- 👨‍💻 Experience in Machine Learning, Deep Learning, Computer Vision Models, FIDO2 Password-Less authentication, Firefox Patching, Android Automation, Network Testing, Developing Websites, Java apps and working with Linux.
 
 - 🤝 Open to connecting with fellow developers & researchers and learning something new.
 
